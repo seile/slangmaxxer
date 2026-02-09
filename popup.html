@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slangmaxxer</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>SLANGMAXXER</h1>
+    <p class="subtitle">brainrot text converter</p>
+
+    <div class="toggle-section">
+      <label class="toggle">
+        <input type="checkbox" id="enableToggle">
+        <span class="slider"></span>
+      </label>
+      <span id="statusText" class="status-text">OFF</span>
+    </div>
+
+    <div class="intensity-section">
+      <label for="intensity">Brainrot Level</label>
+      <input type="range" id="intensity" min="1" max="3" value="2" step="1">
+      <div class="intensity-labels">
+        <span>Mild</span>
+        <span>Based</span>
+        <span>Sigma</span>
+      </div>
+    </div>
+
+    <button id="convertBtn" class="convert-btn">MOG THIS PAGE</button>
+    <button id="revertBtn" class="revert-btn">UNDO (COPE)</button>
+
+    <p class="footer">no cap this extension is bussin fr fr</p>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
