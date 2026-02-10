@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Slangmaxxer",
   "version": "1.0.0",
-  "description": "Converts all text on any webpage into looksmaxxing/brainrot slang. No cap fr fr.",
+  "description": "Converts all text on any webpage into authentic looksmaxxing/PSL community slang. Mog every page you visit.",
   "permissions": ["activeTab", "storage"],
   "action": {
     "default_popup": "popup.html",
