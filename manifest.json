@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Slangmaxxer",
+  "name": "Jesterfy",
   "version": "1.0.0",
   "description": "Converts all text on any webpage into authentic looksmaxxing/PSL community slang. Mog every page you visit.",
   "permissions": ["activeTab", "storage"],
