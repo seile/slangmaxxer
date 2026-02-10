@@ -3,7 +3,7 @@
   "name": "Jesterfy",
   "version": "1.0.0",
   "description": "Converts all text on any webpage into authentic looksmaxxing/PSL community slang. Mog every page you visit.",
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
